@@ -1,7 +1,9 @@
-# react-geolocation
+# react-geolocation 
+```
 React Lab with Geolocation API
 @author coding-haniii
 Welcome to my side project (It's going on project in present.)
+```
 -------------------------------------------------------
 # Sequential working history
 
