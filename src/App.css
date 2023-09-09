@@ -1,0 +1,19 @@
+.container {
+ background-color: rgb(230, 230, 230);
+ width: 30rem;
+}
+
+.box-button {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.box-data {
+ font-color: green;
+}
+
+table, tr,th, td {
+  border-collapse: collapse;
+  border:2px solid rgb(44, 44, 44);
+}
