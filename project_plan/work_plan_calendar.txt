@@ -1,1 +1,23 @@
+## @author coding-haniii
+## Side project working plan 
+## Let's do it!
+
+202308   - contact - looking for members (who can design service or develop together)
+         > 1 member joined
+20230826 - 1st meeting - discussion for ideas, 
+                         sharing skillset and career, 
+                         rough plan
+202309   - 1st week    - research 
+                       - geolocation API (Google, Kakao, Naver, W3C, etc.)
+20230903 - 2nd meeting - choose geolocation API
+                       - decide api test scenario and location
+                       > Topic! Opinions about open source api accurancy
+202309   - 2nd week    - dev. React server build
+                       - dev. Call Geolocation API with Timeloop (10s)
+                       - dev. Save api data
+20230910 - 3rd meeting - API test in a site
+                         1st floor(G)
+                         2nd basement
+202309   - 3rd week    - Choose DB, draw system and service architecture
+
 
