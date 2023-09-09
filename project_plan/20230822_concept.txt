@@ -1,0 +1,20 @@
+# What skill set I want to practice?
+1. React.js
+2. Typescript
+3. Geolocation API
+4. Map & Tracking/Routing (Real time)
+5. QR
+6. Distance calculation 
+7. Simultaneous connection
+
+# Which Type of Application?
+Hybrid for Web, Mobile
+
+# First action <Research>
+- Geolocation API: accurancy, cost, traffic availability, international service?
+- Mapping: open lib, technology, scale
+- Client device data set: latitude, longitude, height
+- GPS
+- QR API: cost, design
+
+
