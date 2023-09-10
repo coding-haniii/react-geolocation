@@ -13,11 +13,18 @@
                        - decide API test scenario and location
                        > Topic! Opinions about open source API accuracy
 202309   - 2nd week    - dev. React server build
-                       - dev. Call Geolocation API with Timeloop (10s)
+                       - dev. Call Geolocation API with Timeloop (10s) >> change to 'Button', for marking order of each spot, and do not need all data yet in the test
                        - dev. Save API data
 20230910 - 3rd meeting - API test at site
                          1st floor(G)
                          2nd basement
-202309   - 3rd week    - Choose DB, draw system and service architecture
+                       > Review! We need to search for alternative technologies instead of GPS
+202309   - 3rd week    - research - 'How to track Indoor user' 
+                       - Wifi/Blooth(IBeacon, LINE)
+                       - Sound(Starbucks)
+                       - Camera(Google project Tango)
+                       - Earth's magnetic(IndoorAtlas)
+                       
+                              
 
 
