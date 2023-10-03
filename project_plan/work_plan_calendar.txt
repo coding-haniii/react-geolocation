@@ -32,7 +32,7 @@
                           2) S.K - RFP, UI/UX (web|mobile), (etc. IOS env) search 
 202309   - 5th week    - break for thanksgiving      
 20231003 - 6th week    - research and design architecture H.K
-                       - QR generate/scan with python, AI Art QR API. (discuss topic, programmer generator? or use api?)
+                       - QR generate/scan with python, AI Art QR API. (discuss topic, program generator? or use api?)
                        - DB Neo4j & cluster
                        - API GraphQL
 20231008 - 5th meeting - 
