@@ -18,13 +18,21 @@
 20230910 - 3rd meeting - API test at site
                          1st floor(G)
                          2nd basement
-                       > Review! We need to search for alternative technologies instead of GPS
-202309   - 3rd week    - research - 'How to track Indoor user' 
+                       > Review! We need to search for alternative technologies instead of GPS.     
+         - research    - 'How to track Indoor user' 
                        - Wifi/Blooth(IBeacon, LINE)
                        - Sound(Starbucks)
                        - Camera(Google project Tango)
                        - Earth's magnetic(IndoorAtlas)
                        
-                              
-
+20230917 - 4th meeting - discuss plan B (QR)                              
+                       - distribute tasks per member
+                          1) H.K. - QR API, DB, System Arch  
+                          2) S.K. - RFP, UI/UX, (etc. IOS env) search 
+202309   - 5th week    - break for thanksgiving      
+20231003 - 6th week    - research and design architecture 
+                       - QR generate/scan with python, AI Art QR API. (discuss topic, programmer generator? or use api?)
+                       - DB Neo4j & cluster
+                       - API GraphQL
+20231008 - 5th meeting - 
 
