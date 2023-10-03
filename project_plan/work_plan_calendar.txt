@@ -1,36 +1,37 @@
 ## @author coding-haniii
 ## Side project working plan 
-## Let's do it!
+## Let's do it! (H.K = project manager & software engineer)
 
 202308   - contact - looking for members (who can design service or develop together)
-         > 1 member joined
+         > 1 member joined (S.K = service planner)
 20230826 - 1st meeting - discussion for ideas, 
                          sharing skillset and career, 
                          rough plan
-202309   - 1st week    - research 
+202309   - 1st week    - research H.K
                        - geolocation API (Google, Kakao, Naver, W3C, etc.)
 20230903 - 2nd meeting - choose geolocation API
                        - decide API test scenario and location
                        > Topic! Opinions about open source API accuracy
-202309   - 2nd week    - dev. React server build
+202309   - 2nd week    - dev. React server build H.K
                        - dev. Call Geolocation API with Timeloop (10s) >> change to 'Button', for marking order of each spot, and do not need all data yet in the test
                        - dev. Save API data
 20230910 - 3rd meeting - API test at site
                          1st floor(G)
                          2nd basement
                        > Review! We need to search for alternative technologies instead of GPS.     
-         - research    - 'How to track Indoor user' 
+         - research    - 'How to track Indoor user' H.K
                        - Wifi/Blooth(IBeacon, LINE)
                        - Sound(Starbucks)
                        - Camera(Google project Tango)
                        - Earth's magnetic(IndoorAtlas)
                        
-20230917 - 4th meeting - discuss plan B (QR)                              
+20230917 - 4th meeting - discuss plan B (service with QR)                              
                        - distribute tasks per member
-                          1) H.K. - QR API, DB, System Arch  
-                          2) S.K. - RFP, UI/UX, (etc. IOS env) search 
+                          1) H.K - QR API, DB, System Arch, Algorithm,
+                                    MLflow/Kubflow, ELK, Git, Docker  
+                          2) S.K - RFP, UI/UX (web|mobile), (etc. IOS env) search 
 202309   - 5th week    - break for thanksgiving      
-20231003 - 6th week    - research and design architecture 
+20231003 - 6th week    - research and design architecture H.K
                        - QR generate/scan with python, AI Art QR API. (discuss topic, programmer generator? or use api?)
                        - DB Neo4j & cluster
                        - API GraphQL
