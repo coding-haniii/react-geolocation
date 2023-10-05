@@ -35,5 +35,8 @@
                        - QR generate/scan with python, AI Art QR API. (discuss topic, program generator? or use api?)
                        - DB Neo4j & cluster
                        - API GraphQL
+20231005 - 6th week    - upate git project H.K
+                       - contacted with a React developer, Q/A for design react proejct H.K
+         - 7th week    - install and connect Neo4jDB, create tables and GraphQL queries H.K
 20231008 - 5th meeting - 
 
