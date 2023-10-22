@@ -37,6 +37,7 @@
                        - API GraphQL
 20231005 - 6th week    - upate git project H.K
                        - contacted with a React developer, Q/A for design react proejct H.K
-         - 7th week    - install and connect Neo4jDB, create tables and GraphQL queries H.K
-20231008 - 5th meeting - 
+20231018 - 7th week    - dev. GraphQL create schemas and queries H.K
+20231020               - dev. JWT, Bearer token H.K
+         - 8th week    - install and connect Neo4jDB H.K
 
