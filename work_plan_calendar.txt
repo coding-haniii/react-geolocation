@@ -40,5 +40,6 @@
 20231018 - 7th week    - dev. GraphQL create schemas and queries H.K
 20231020               - dev. JWT, Bearer token H.K
 20231027 - 8th week    - design. map upload UI&UX H.K
+20231028               - dev. Apollo (cache) H.K
          - 9th week    - install and connect Neo4jDB H.K
 
